@@ -1,2 +1,1 @@
-# anti-boring
-Bored? I can help you
+Just an app to find you an activity to do when you can't stand the boredom. Just select the type (or let it surprise you) and the number of participants, price and accessibility and it will show you an activity to do.
